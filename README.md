@@ -1,1 +1,2 @@
 # secondProject
+added new line
